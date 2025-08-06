@@ -78,9 +78,7 @@ a:hover {
 
 .avatar-author {
   display: flex;
-  align-content:;
   align-items: center;
-  align-content: end;
   gap: 10px;
   padding: 5px 0 0 0;
 }
